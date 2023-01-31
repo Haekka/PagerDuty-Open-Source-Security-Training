@@ -24,7 +24,7 @@ External resources:
 
 ### But Wait, There's More!
 
-<input type="checkbox" id="096" /><label for="096">![096](../slides/for_everyone/for_everyone.096.jpeg)</label>
+<input type="checkbox" id="096" /><label for="096">![096](../Slides/for_everyone.096.jpeg)</label>
 _096. But Wait, There's More!._
 
 But wait, there's more! Just because we now have a good process for passwords, doesn't mean that we're done.
@@ -33,7 +33,7 @@ But wait, there's more! Just because we now have a good process for passwords, d
 
 ### Password Equivalency
 
-<input type="checkbox" id="097" /><label for="097">![097](../slides/for_everyone/for_everyone.097.jpeg)</label>
+<input type="checkbox" id="097" /><label for="097">![097](../Slides/for_everyone.097.jpeg)</label>
 _097. Password equivalency._
 
 There's some things that are basically the same as your password. For example, security question answers. If I have that information, I can likely gain access to your account as if I had your password.
@@ -46,7 +46,7 @@ Two-factor secrets are different, they're not equivalent to a password, but I've
 
 ### Security Questions
 
-<input type="checkbox" id="098" /><label for="098">![098](../slides/for_everyone/for_everyone.098.jpeg)</label>
+<input type="checkbox" id="098" /><label for="098">![098](../Slides/for_everyone.098.jpeg)</label>
 _098. Security Questions. [Reference](https://www.reddit.com/r/ProgrammerHumor/comments/7r3vea/pizzacatlover/)_
 
 I'll be honest, I absolutely hate security questions. They solve a customer support problem, not a security problem. In fact, from a security perspective all they do is weaken it. If you ever have the option not to set security questions at all, take it.
@@ -55,7 +55,7 @@ I'll be honest, I absolutely hate security questions. They solve a customer supp
 
 ### Security Questions
 
-<input type="checkbox" id="099" /><label for="099">![099](../slides/for_everyone/for_everyone.099.jpeg)</label>
+<input type="checkbox" id="099" /><label for="099">![099](../Slides/for_everyone.099.jpeg)</label>
 _099. Security Questions._
 
 Unfortunately most websites force you to set security questions and answers, giving you no choice but to enter something.
@@ -70,7 +70,7 @@ There's even a slight risk that using randomly generating strings will get you i
 
 ### United Airlines "Security"
 
-<input type="checkbox" id="100" /><label for="100">![100](../slides/for_everyone/for_everyone.100.jpeg)</label>
+<input type="checkbox" id="100" /><label for="100">![100](../Slides/for_everyone.100.jpeg)</label>
 _100. United Airlines "Security"._
 
 Some companies go even further with their security questions. Here's United Airlines recent "improvements" to their security. Not only do they force you to pick 5 security questions, but your answers must be chosen from a dropdown of choices they provide.
@@ -85,7 +85,7 @@ One thing that stood out about these changes are that United called these securi
 
 ### Multi-Factor Authentication
 
-<input type="checkbox" id="101" /><label for="101">![101](../slides/for_everyone/for_everyone.101.jpeg)</label>
+<input type="checkbox" id="101" /><label for="101">![101](../Slides/for_everyone.101.jpeg)</label>
 _101. Knowledge, possession, inherence. [Reference](https://en.wikipedia.org/wiki/Multi-factor_authentication)_
 
 You have heard the term "multi-factor authentication", or "two-factor authentication" a lot. But what exactly is it?
@@ -96,7 +96,7 @@ In the field of authentication, there are three main types of evidence (or "fact
 
 ### Multi-Factor In Plain English
 
-<input type="checkbox" id="102" /><label for="102">![102](../slides/for_everyone/for_everyone.102.jpeg)</label>
+<input type="checkbox" id="102" /><label for="102">![102](../Slides/for_everyone.102.jpeg)</label>
 _102. Multi-Factor. [Reference](https://en.wikipedia.org/wiki/Multi-factor_authentication)_
 
 In plain English, that's Something you know, Something you have, and Something you are.
@@ -105,7 +105,7 @@ In plain English, that's Something you know, Something you have, and Something y
 
 ### Password, Device, Fingerprint
 
-<input type="checkbox" id="103" /><label for="103">![103](../slides/for_everyone/for_everyone.103.jpeg)</label>
+<input type="checkbox" id="103" /><label for="103">![103](../Slides/for_everyone.103.jpeg)</label>
 _103. Password, Device, Fingerprint. [Reference](https://en.wikipedia.org/wiki/Multi-factor_authentication)_
 
 So, something you know would be a password. Something you have would be your phone, or a physical object. And something you are would be a fingerprint, or some other form of biometrics.
@@ -114,7 +114,7 @@ So, something you know would be a password. Something you have would be your pho
 
 ### Two-Factor
 
-<input type="checkbox" id="104" /><label for="104">![104](../slides/for_everyone/for_everyone.104.jpeg)</label>
+<input type="checkbox" id="104" /><label for="104">![104](../Slides/for_everyone.104.jpeg)</label>
 _104. Two-Factor._
 
 The idea of two-factor authentication is that you pick two of these factors, and require them in order to authenticate a user. While an attacker might be able to remotely steal your password, it's pretty unlikely they'd also be able to physically steal your phone or get a fingerprint. Likewise, if an attacker can physically steal your phone, it's unlikely they'd also be able to get your password.
@@ -132,7 +132,7 @@ This all applies to backup codes too. Typically you should just print those off 
 
 ### Use Two-Factor Authentication
 
-<input type="checkbox" id="106" /><label for="106">![106](../slides/for_everyone/for_everyone.106.jpeg)</label>
+<input type="checkbox" id="106" /><label for="106">![106](../Slides/for_everyone.106.jpeg)</label>
 _106. Use two-factor authentication._
 
 The big takeaway from all this, is to make sure you use two-factor authentication wherever it's available. But you should use it for all your personal stuff too. GMail, Facebook, Dropbox, GitHub, Amazon, etc. They all have two-factor authentication options available.

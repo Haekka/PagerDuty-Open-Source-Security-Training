@@ -27,7 +27,7 @@ External resources:
 
 ### Compliance
 
-_<input type="checkbox" id="129" /><label for="129">![129](../slides/for_everyone/for_everyone.129.jpeg)</label>_
+_<input type="checkbox" id="129" /><label for="129">![129](../Slides/for_everyone.129.jpeg)</label>_
 _129. Compliance._
 
 OK, we're on to our final topic. Compliance.
@@ -38,7 +38,7 @@ We have a variety of compliance restrictions that affect how we operate, so I wa
 
 ### GDPR
 
-<input type="checkbox" id="130" /><label for="130">![130](../slides/for_everyone/for_everyone.130.jpeg)</label>
+<input type="checkbox" id="130" /><label for="130">![130](../Slides/for_everyone.130.jpeg)</label>
 _130. GDPR._
 
 The first one is GDPR. This stands for General Data Protection Regulation and is a new European law coming into effect later this year. I'm required to tell you that this exists, and is a thing.
@@ -51,7 +51,7 @@ Just kidding, of course I'm going to go into more detail.
 
 ### GDPR
 
-<input type="checkbox" id="131" /><label for="131">![131](../slides/for_everyone/for_everyone.131.jpeg)</label>
+<input type="checkbox" id="131" /><label for="131">![131](../Slides/for_everyone.131.jpeg)</label>
 _131. GDPR. [Reference](https://www.eugdpr.org/)_
 
 GDPR goes into effect on 25th May 2018, and has very strict rules for how personal information should be handled, with big fines for those who don't follow the rules. We will be subject to GDPR, as we handle data for users who are EU citizens.
@@ -74,7 +74,7 @@ There are more things involved with GDPR that I’ve gone over here, such as “
 
 ### Dear Santa
 
-<input type="checkbox" id="132" /><label for="132">![132](../slides/for_everyone/for_everyone.132.jpeg)</label>
+<input type="checkbox" id="132" /><label for="132">![132](../Slides/for_everyone.132.jpeg)</label>
 _132. Dear Santa... [Reference](https://twitter.com/pwnallthethings/status/945353758137049088)_
 
 The bottom line is that GDPR is going to lead to a lot of interesting situations in the industry.
@@ -83,7 +83,7 @@ The bottom line is that GDPR is going to lead to a lot of interesting situations
 
 ### Image Credits
 
-<input type="checkbox" id="142" /><label for="142">![142](../slides/for_everyone/for_everyone.142.jpeg)</label>
+<input type="checkbox" id="142" /><label for="142">![142](../Slides/for_everyone.142.jpeg)</label>
 _142. Image credits._
 
 ???+ info "Information"

@@ -30,7 +30,7 @@ External resources:
 
 ### Best Practices
 
-<input type="checkbox" id="079" /><label for="079">![079](../slides/for_everyone/for_everyone.079.jpeg)</label>
+<input type="checkbox" id="079" /><label for="079">![079](../Slides/for_everyone.079.jpeg)</label>
 _079. Best practices._
 
 By following best practices with your passwords, you can massively reduce the chance that you'll succumb to an attack on another website, regardless of how they store your information.
@@ -43,7 +43,7 @@ So, your passwords should all be long, random, unique, and private. Now, a lot o
 
 ### Long
 
-<input type="checkbox" id="080" /><label for="080">![080](../slides/for_everyone/for_everyone.080.jpeg)</label>
+<input type="checkbox" id="080" /><label for="080">![080](../Slides/for_everyone.080.jpeg)</label>
 _080. Long. [Reference](http://www.lockdown.co.uk/?pg=combi&s=articles)_
 
 First, your passwords should be long. Hopefully it's mostly intuitive that the longer a password is, the harder it will be to break. At least in general. If your password is 20 of the same character, then that changes things a little.
@@ -56,7 +56,7 @@ Current Department of Defense standards recommend 15 or more characters for your
 
 ### Random
 
-<input type="checkbox" id="081" /><label for="081">![081](../slides/for_everyone/for_everyone.081.jpeg)</label>
+<input type="checkbox" id="081" /><label for="081">![081](../Slides/for_everyone.081.jpeg)</label>
 _081. Random._
 
 Next, your passwords also need to be random. I've said here not to use dictionary words, but "dictionary" is in quotes. I don't just mean the English dictionary. There are things called password dictionaries too. Remember a few slides ago, I showed you some email and password combinations that had been broken. When big websites get breached, the broken passwords get added to a password list and sorted by popularity. These can then be used to brute force (i.e. try every possibility until it works) other people's accounts.
@@ -71,7 +71,7 @@ Finally, not all websites let you make completely random passwords, unfortunatel
 
 ### Unique
 
-<input type="checkbox" id="082" /><label for="082">![082](../slides/for_everyone/for_everyone.082.jpeg)</label>
+<input type="checkbox" id="082" /><label for="082">![082](../Slides/for_everyone.082.jpeg)</label>
 _082. Unique._
 
 Your passwords should be completely unique. Every single account you have should get its own password, and you shouldn't follow patterns. I see advice sometimes where you just pick one password, then append the name of the website to it, that way you get a different password everywhere. This is bad advice, please don't follow it. Firstly, if I break one of your passwords, it's trivial to figure out your pattern, and secondly if you ever need to rotate your password on one site, you're going to have a bad time.
@@ -82,7 +82,7 @@ You can't assume anything about how a website stores your password. For all you 
 
 ### Private
 
-<input type="checkbox" id="083" /><label for="083">![083](../slides/for_everyone/for_everyone.083.jpeg)</label>
+<input type="checkbox" id="083" /><label for="083">![083](../Slides/for_everyone.083.jpeg)</label>
 _083. Private._
 
 Finally, your passwords are private. Never ever share them with anyone. Not your loved ones, not your barber, not your Lyft driver. If you do things properly, even you probably won't know your own passwords (I'll get to how in a moment).
@@ -95,7 +95,7 @@ And finally, we will _never_ ask you for your password, under any circumstances.
 
 ### Treat passwords like toothbrush.
 
-<input type="checkbox" id="084" /><label for="084">![084](../slides/for_everyone/for_everyone.084.jpeg)</label>
+<input type="checkbox" id="084" /><label for="084">![084](../Slides/for_everyone.084.jpeg)</label>
 _084. "Treat your password like your toothbrush. Don't let anybody else use it, and get a new one every six months."_
 
 Here's a quote from Clifford Stoll on passwords which I thought was funny. Although I advise you replace your toothbrush a bit more often than six months.
@@ -106,7 +106,7 @@ Ok, so now we know what passwords should look like, let's look at a few examples
 
 ### Bad Passwords
 
-<input type="checkbox" id="085" /><label for="085">![085](../slides/for_everyone/for_everyone.085.jpeg)</label>
+<input type="checkbox" id="085" /><label for="085">![085](../Slides/for_everyone.085.jpeg)</label>
 _085. Bad passwords._
 
 Hopefully it's all clear to you why `password` is a really bad password to use. Please don't ever use it, or any dictionary word. What about the next one though, `P4ssw0rd`? The "a" has been replaced with a "4" and the "o" a "0". This can also be trivially broken, as these are standard letter replacements and are a widely known technique. This might add a few minutes to the amount of time it takes to break.
@@ -123,7 +123,7 @@ OK, so what are some good passwords then?
 
 ### Good Passwords
 
-<input type="checkbox" id="086" /><label for="086">![086](../slides/for_everyone/for_everyone.086.jpeg)</label>
+<input type="checkbox" id="086" /><label for="086">![086](../Slides/for_everyone.086.jpeg)</label>
 _086. Good passwords._
 
 These are good passwords. They're long, unique, and random. Although obviously they're no longer private because they're on this slide and you've all seen them, but this gives you an idea of what your passwords should be looking like.
@@ -136,7 +136,7 @@ Yeah, that's going to be tricky.
 
 ### Elephant in the Room
 
-<input type="checkbox" id="087" /><label for="087">![087](../slides/for_everyone/for_everyone.087.jpeg)</label>
+<input type="checkbox" id="087" /><label for="087">![087](../Slides/for_everyone.087.jpeg)</label>
 _087. Let's talk about the elephant in the room._
 
 Which brings me to the elephant in the room. The thing a lot of you have been thinking for the last few minutes.
@@ -145,7 +145,7 @@ Which brings me to the elephant in the room. The thing a lot of you have been th
 
 ### I can't remember that
 
-<input type="checkbox" id="088" /><label for="088">![088](../slides/for_everyone/for_everyone.088.jpeg)</label>
+<input type="checkbox" id="088" /><label for="088">![088](../Slides/for_everyone.088.jpeg)</label>
 _088. "I can't remember that."_
 
 There's not a chance in hell we can remember those types of passwords.
@@ -158,7 +158,7 @@ So how do you remember all the passwords? You don't.
 
 ### Use a Password Manager
 
-<input type="checkbox" id="089" /><label for="089">![089](../slides/for_everyone/for_everyone.089.jpeg)</label>
+<input type="checkbox" id="089" /><label for="089">![089](../Slides/for_everyone.089.jpeg)</label>
 _089. Use a password manager. [Reference](https://1password.com/)_
 
 You need to use a tool called a "Password Manager". There are lots out there, and you've probably heard of a lot of them. "[LastPass](https://www.lastpass.com/)", "[1Password](https://1password.com/)", "[KeePass](https://keepass.info/)", etc. They each have their own pros and cons depending on how you prefer to operate. Most have browser plugins to automatically enter your passwords for you (although there have been some security issues there in the past). But they're all designed to do pretty much one thing. Store a lookup of all your usernames and passwords, protected by a single "master password", which is the one password (hey, that's the name of one of the tools) you need to remember. The idea is that it'll be the last password (hey, that's the name of another one!) you need to remember.
@@ -173,7 +173,7 @@ Let's talk a bit more about password managers.
 
 ### Password Managers
 
-<input type="checkbox" id="090" /><label for="090">![090](../slides/for_everyone/for_everyone.090.jpeg)</label>
+<input type="checkbox" id="090" /><label for="090">![090](../Slides/for_everyone.090.jpeg)</label>
 _090. Password managers._
 
 Password managers are designed to remember all of your passwords for you, in a secure way. They can also generate completely random passwords for you, and you can typically change the criteria associated with this generation. So if a website doesn't let you use special symbols, you can exclude those and still get a strong password.
@@ -187,7 +187,7 @@ But the most important feature of password managers is that they let you use a c
 
 ### Password Managers (2)
 
-<input type="checkbox" id="091" /><label for="091">![091](../slides/for_everyone/for_everyone.091.jpeg)</label>
+<input type="checkbox" id="091" /><label for="091">![091](../Slides/for_everyone.091.jpeg)</label>
 _091. Password managers._
 
 Now, I'm not going to lie to you. Switching from using the same password everywhere, to using a password manager, is reaaally annoying. It's going to slow you down when you want to access websites, and you're going to have to go to every place you have an account and change your password. It really is going to be a pain.
@@ -201,7 +201,7 @@ I should be clear too, I'm not just advocating for you to use them for all Pager
 
 ### Eggs In One Basket
 
-<input type="checkbox" id="092" /><label for="092">![092](../slides/for_everyone/for_everyone.092.jpeg)</label>
+<input type="checkbox" id="092" /><label for="092">![092](../Slides/for_everyone.092.jpeg)</label>
 _092. Eggs in a basket._
 
 Some of you may be thinking "aren't we just putting all our eggs in one basket though? What happens if the password manager gets broken into!"
@@ -210,7 +210,7 @@ Some of you may be thinking "aren't we just putting all our eggs in one basket t
 
 ### Troy Hunt Quote
 
-<input type="checkbox" id="093" /><label for="093">![093](../slides/for_everyone/for_everyone.093.jpeg)</label>
+<input type="checkbox" id="093" /><label for="093">![093](../Slides/for_everyone.093.jpeg)</label>
 _093. Password managers don't have to be perfect. [Reference](https://www.troyhunt.com/password-managers-dont-have-to-be-perfect-they-just-have-to-be-better-than-not-having-one/)_
 
 And you're right, that is a concern. But we're playing the odds. It is much more likely that you will get compromised if you use the same password everywhere, than it is that an attacker can physically take your password manager _AND_ break your master password. This is why it's important to choose a strong master password.
@@ -221,7 +221,7 @@ This quote from Troy Hunt explains it well. Password managers don't have to be p
 
 ### Pick a Good Master Password
 
-<input type="checkbox" id="094" /><label for="094">![094](../slides/for_everyone/for_everyone.094.jpeg)</label>
+<input type="checkbox" id="094" /><label for="094">![094](../Slides/for_everyone.094.jpeg)</label>
 _094. Pick a good master password._
 
 But your password manager is only as good as the master password you pick. So you need to pick a good one, and you need to memorize it. Unfortunately this is one password you can’t store in your password manager.
@@ -230,7 +230,7 @@ But your password manager is only as good as the master password you pick. So yo
 
 ### Memory Tips
 
-<input type="checkbox" id="095" /><label for="095">![095](../slides/for_everyone/for_everyone.095.jpeg)</label>
+<input type="checkbox" id="095" /><label for="095">![095](../Slides/for_everyone.095.jpeg)</label>
 _095. Memory tips._
 
 I have some tips for memorizing a complex password that you may find useful.

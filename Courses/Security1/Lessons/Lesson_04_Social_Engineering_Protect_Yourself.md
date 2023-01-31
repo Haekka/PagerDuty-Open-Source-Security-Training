@@ -25,7 +25,7 @@ External resources:
 
 ### Protecting Yourself
 
-<input type="checkbox" id="039" /><label for="039">![039](../slides/for_everyone/for_everyone.039.jpeg)</label>
+<input type="checkbox" id="039" /><label for="039">![039](../Slides/for_everyone.039.jpeg)</label>
 _039. Protecting yourself._
 
 So how do we protect ourselves from this type of attack? Unfortunately there's no golden rule I can give you. It's up to us all to remain vigilant and watch for the signs of suspicious emails. Some things to take care with, the "from" address of email can easily be spoofed. There are technologies that can help to prevent this, but they're not implemented everywhere. So while a misspelled domain is a strong indicator of phishing, a real domain isn't a 100% indicator that it's genuine.
@@ -42,7 +42,7 @@ Finally, remember to **never click on any links in a mail you think may be phish
 
 ### You Are Our Greatest Asset!
 
-<input type="checkbox" id="044" /><label for="044">![044](../slides/for_everyone/for_everyone.044.jpeg)</label>
+<input type="checkbox" id="044" /><label for="044">![044](../Slides/for_everyone.044.jpeg)</label>
 _044. You are our greatest asset!_
 
 Automatic filtering only gets us so far. It's up to all of you to be able to spot suspicious emails and send them to us. The good news is that you're already great at this! We managed to preemptively block several phishing attacks last year thanks to quick employee reports. Most were deleted from your inbox before you even read them. Don’t assume someone else has already sent us the example, do it anyway. We’d rather have 300 duplicate reports than no report at all.
@@ -51,7 +51,7 @@ Automatic filtering only gets us so far. It's up to all of you to be able to spo
 
 ### Not Just Phishing
 
-<input type="checkbox" id="045" /><label for="045">![045](../slides/for_everyone/for_everyone.045.jpeg)</label>
+<input type="checkbox" id="045" /><label for="045">![045](../Slides/for_everyone.045.jpeg)</label>
 _045. Not just phishing. [Reference](https://en.wikipedia.org/wiki/Social_engineering_(security)#Techniques_and_terms)_
 
 Social engineering isn't just about phishing, even though that's what I focused on here. There are many more types of social engineering attacks we can face.
@@ -70,7 +70,7 @@ One final example of social engineering would be leaving a USB drive lying on th
 
 ### Ask us!
 
-<input type="checkbox" id="046" /><label for="046">![046](../slides/for_everyone/for_everyone.046.jpeg)</label>
+<input type="checkbox" id="046" /><label for="046">![046](../Slides/for_everyone.046.jpeg)</label>
 _046. Ask us._
 
 As with anything security related, if you're not sure if you've encountered a social engineering attack, or if you're curious to know more, just ask us! We don't bite! (Well, not all of us).

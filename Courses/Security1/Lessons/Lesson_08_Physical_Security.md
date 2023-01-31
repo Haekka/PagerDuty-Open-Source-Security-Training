@@ -27,7 +27,7 @@ External resources:
 
 ### Physical Security
 
-_<input type="checkbox" id="107" /><label for="107">![107](../slides/for_everyone/for_everyone.107.jpeg)</label>_
+_<input type="checkbox" id="107" /><label for="107">![107](../Slides/for_everyone.107.jpeg)</label>_
 _107. Physical Security._
 
 These next two sections will go much quicker, I promise. We're now going to talk about physical security. I don't mean bouncers.
@@ -36,7 +36,7 @@ These next two sections will go much quicker, I promise. We're now going to talk
 
 ### What is physical security?
 
-<input type="checkbox" id="108" /><label for="108">![108](../slides/for_everyone/for_everyone.108.jpeg)</label>
+<input type="checkbox" id="108" /><label for="108">![108](../Slides/for_everyone.108.jpeg)</label>
 _108. What is physical security?_
 
 I mean security that's designed to protect our office, personnel, and equipment.
@@ -45,7 +45,7 @@ I mean security that's designed to protect our office, personnel, and equipment.
 
 ### Basic Guidelines
 
-<input type="checkbox" id="109" /><label for="109">![109](../slides/for_everyone/for_everyone.109.jpeg)</label>
+<input type="checkbox" id="109" /><label for="109">![109](../Slides/for_everyone.109.jpeg)</label>
 _109. Basic Guidelines._
 
 It's very easy to lose track of who works here and who doesn't at any given time. Gone are the days where we could all fit into a single meeting room.
@@ -58,7 +58,7 @@ If their answers don't satisfy you, and you think they're sketchy, alert the sec
 
 ### Ask Questions
 
-<input type="checkbox" id="110" /><label for="110">![110](../slides/for_everyone/for_everyone.110.jpeg)</label>
+<input type="checkbox" id="110" /><label for="110">![110](../Slides/for_everyone.110.jpeg)</label>
 _110. Ask Questions._
 
 If you see something suspicious, ask questions. But be polite, don't shove someone up against the wall shouting "Who do you work for!!?!?!", this isn't a movie. If someone is wandering around looking lost, ask them where they're heading. It's likely just a new employee.
@@ -69,7 +69,7 @@ If someone you don't recognize is sitting at your friends desk using their lapto
 
 ### Lock Your Computers!
 
-<input type="checkbox" id="111" /><label for="111">![111](../slides/for_everyone/for_everyone.111.jpeg)</label>
+<input type="checkbox" id="111" /><label for="111">![111](../Slides/for_everyone.111.jpeg)</label>
 _111. Lock Your Computers!._
 
 Please lock your computers when you're not with them. This is even more important when working remote. It literally only takes a few seconds for someone to plug in a USB stick and they've now loaded malware on to your machine.
@@ -82,7 +82,7 @@ Also we used to do that, and it just makes people feel bad and doesn't give you 
 
 ### Piggybacking
 
-<input type="checkbox" id="112" /><label for="112">![112](../slides/for_everyone/for_everyone.112.jpeg)</label>
+<input type="checkbox" id="112" /><label for="112">![112](../Slides/for_everyone.112.jpeg)</label>
 _112. Piggybacking._
 
 Beware of "Piggybacking", this is where someone else follows you through a secure door on your keycard swipe. A common social engineering trick is to just act like you belong and follow people through a door they've opened for you. Usually carrying something heavy with both hands to explain why they can't swipe their own keycard.
@@ -95,7 +95,7 @@ Likewise, if you're following someone through a door and they ask you to tap you
 
 ### Building Security
 
-<input type="checkbox" id="114" /><label for="114">![114](../slides/for_everyone/for_everyone.114.jpeg)</label>
+<input type="checkbox" id="114" /><label for="114">![114](../Slides/for_everyone.114.jpeg)</label>
 _114. Building Security._
 
 Once you've used your keycard to unlock a door, please don't prop it open. The doors are locked for a reason, and propping them open kind of defeats that. Listen for the sound of the door closing behind you.
@@ -106,7 +106,7 @@ Make sure all your visitors sign in at the front desk, and have a name badge. No
 
 ### Laptop Stolen?!
 
-<input type="checkbox" id="115" /><label for="115">![115](../slides/for_everyone/for_everyone.115.jpeg)</label>
+<input type="checkbox" id="115" /><label for="115">![115](../Slides/for_everyone.115.jpeg)</label>
 _115. Laptop stolen?!._
 
 So you're at a bar after work, you look down on the floor and see that your backpack has been stolen, and your company issued laptop was in there. It was likely stolen by someone wearing a balaclava, since we know that's what all criminals wear based on my stock image searches.
@@ -117,7 +117,7 @@ What do you do?
 
 ### Panic?
 
-<input type="checkbox" id="116" /><label for="116">![116](../slides/for_everyone/for_everyone.116.jpeg)</label>
+<input type="checkbox" id="116" /><label for="116">![116](../Slides/for_everyone.116.jpeg)</label>
 _116. Panic?._
 
 Your first instinct is to probably panic. That's OK, it's a natural reaction.
@@ -126,7 +126,7 @@ Your first instinct is to probably panic. That's OK, it's a natural reaction.
 
 ### Don't Panic
 
-<input type="checkbox" id="117" /><label for="117">![117](../slides/for_everyone/for_everyone.117.jpeg)</label>
+<input type="checkbox" id="117" /><label for="117">![117](../Slides/for_everyone.117.jpeg)</label>
 _117. Don't Panic._
 
 But don't panic. Things get stolen, it's just the world we live in. You're not going to get fired, you're not going to get into trouble.
@@ -137,7 +137,7 @@ _(Unless you stole the laptop yourself, in which case, yeah.. you'll probably ge
 
 ### Page Security
 
-<input type="checkbox" id="118" /><label for="118">![118](../slides/for_everyone/for_everyone.118.jpeg)</label>
+<input type="checkbox" id="118" /><label for="118">![118](../Slides/for_everyone.118.jpeg)</label>
 _118. Page us!._
 
 Message security or helpdesk at any time if you have lost or had stolen, any devices that access company information. Whether it's your company issued laptop, or your personal phone which was logged into your GitHub account. Let us know immediately so we can lock it out from all our systems and get you a new device issued.

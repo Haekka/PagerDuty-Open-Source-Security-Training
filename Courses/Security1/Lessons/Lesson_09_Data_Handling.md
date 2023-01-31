@@ -26,7 +26,7 @@ External resources:
 
 ### Personally Identifiable Information (PII)
 
-_<input type="checkbox" id="119" /><label for="119">![119](../slides/for_everyone/for_everyone.119.jpeg)</label>_
+_<input type="checkbox" id="119" /><label for="119">![119](../Slides/for_everyone.119.jpeg)</label>_
 _119. Personally Identifiable Information (PII)._
 
 The next topic is Personally Identifiable Information, usually abbreviated to PII, or sometimes just PI.
@@ -35,7 +35,7 @@ The next topic is Personally Identifiable Information, usually abbreviated to PI
 
 ### What is PII?
 
-<input type="checkbox" id="120" /><label for="120">![120](../slides/for_everyone/for_everyone.120.jpeg)</label>
+<input type="checkbox" id="120" /><label for="120">![120](../Slides/for_everyone.120.jpeg)</label>
 _120. What is PII?_
 
 This is any information that can be used to identify a single person in context. By that I mean, it's no good just to be able to tell that certain data belongs to a single human, you have to be able to identify that particular human out of all the others that exist.
@@ -44,7 +44,7 @@ This is any information that can be used to identify a single person in context.
 
 ### Basic Guidelines
 
-<input type="checkbox" id="121" /><label for="121">![121](../slides/for_everyone/for_everyone.121.jpeg)</label>
+<input type="checkbox" id="121" /><label for="121">![121](../Slides/for_everyone.121.jpeg)</label>
 _121. Basic Guidelines._
 
 We have some basic guidelines when it comes to personal information. First of all, don't discuss company information in public. The number of times I overhear conversations out in the world from folks at other companies discussing things they really shouldn't be is astounding. Please don't do the same.
@@ -59,7 +59,7 @@ Finally, we need to be careful with company data. What is company data you might
 
 ### Company Data?
 
-<input type="checkbox" id="122" /><label for="122">![122](../slides/for_everyone/for_everyone.122.jpeg)</label>
+<input type="checkbox" id="122" /><label for="122">![122](../Slides/for_everyone.122.jpeg)</label>
 _122. Company Data?_
 
 It's not this type of data. It's the data we store in our systems that allow us to run our business.
@@ -68,7 +68,7 @@ It's not this type of data. It's the data we store in our systems that allow us 
 
 ### Data Classification
 
-<input type="checkbox" id="123" /><label for="123">![123](../slides/for_everyone/for_everyone.123.jpeg)</label>
+<input type="checkbox" id="123" /><label for="123">![123](../Slides/for_everyone.123.jpeg)</label>
 _123. Data classification._
 
 We have three distinct types of data at PagerDuty.
@@ -83,7 +83,7 @@ Customer data is by far the most valuable and protected data, and is subject to 
 
 ### Data Handling
 
-<input type="checkbox" id="124" /><label for="124">![124](../slides/for_everyone/for_everyone.124.jpeg)</label>
+<input type="checkbox" id="124" /><label for="124">![124](../Slides/for_everyone.124.jpeg)</label>
 _124. Data handling._
 
 How we handle data depends on what type of data it is. For example, general data does not need to be encrypted, as it's considered public. All other types of data should always be encrypted in transit and at rest however.
@@ -92,7 +92,7 @@ How we handle data depends on what type of data it is. For example, general data
 
 ### Personal Devices
 
-<input type="checkbox" id="126" /><label for="126">![126](../slides/for_everyone/for_everyone.126.jpeg)</label>
+<input type="checkbox" id="126" /><label for="126">![126](../Slides/for_everyone.126.jpeg)</label>
 _126. No company data on personal devices._
 
 When it comes to handling data, it's important to make sure that certain data never leaves our secured environments.
@@ -109,7 +109,7 @@ This is also why it's important for you to let us know if your personal device i
 
 ### Company Devices
 
-<input type="checkbox" id="127" /><label for="127">![127](../slides/for_everyone/for_everyone.127.jpeg)</label>
+<input type="checkbox" id="127" /><label for="127">![127](../Slides/for_everyone.127.jpeg)</label>
 _127. No customer data on company devices._
 
 Likewise, you should never store customer data, even on company devices! Customer data is never to leave our production environment under any circumstances.
@@ -122,7 +122,7 @@ We have analytics mechanisms available to you in our production environment to r
 
 ### Be Mindful
 
-<input type="checkbox" id="128" /><label for="128">![128](../slides/for_everyone/for_everyone.128.jpeg)</label>
+<input type="checkbox" id="128" /><label for="128">![128](../Slides/for_everyone.128.jpeg)</label>
 _128. Be Mindful._
 
 The takeaway from all of this is that you should be mindful of how you handle data. Treat customer data as you would want your own data to be treated. Like I said earlier, customer data is our most valuable asset, and customers are trusting us with it. Breaching that trust is unacceptable, and so we all need to make sure we follow the rules.

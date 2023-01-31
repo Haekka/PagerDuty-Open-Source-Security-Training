@@ -26,7 +26,7 @@ External resources:
 
 ### Reel or Fish?
 
-<input type="checkbox" id="026" /><label for="026">![026](../slides/for_everyone/for_everyone.026.jpeg)</label>
+<input type="checkbox" id="026" /><label for="026">![026](../Slides/for_everyone.026.jpeg)</label>
 _026. Reel or Fish?._
 
 So I'd like to play a quick game with you all now. I know, audience participation, right? But don't worry, it's a fun game, honest.
@@ -37,7 +37,7 @@ It's a game I've called "Reel or Fish?"
 
 ### Real or Phish?
 
-<input type="checkbox" id="027" /><label for="027">![027](../slides/for_everyone/for_everyone.027.jpeg)</label>
+<input type="checkbox" id="027" /><label for="027">![027](../Slides/for_everyone.027.jpeg)</label>
 _027. Real or Phish?._
 
 Sorry, I mean "Real or Phish?"
@@ -48,7 +48,7 @@ I'm going to show you some genuine emails that have been sent to PagerDuty emplo
 
 ### Your account has a debt and is past due.
 
-<input type="checkbox" id="028" /><label for="028">![028](../slides/for_everyone/for_everyone.028.jpeg)</label>
+<input type="checkbox" id="028" /><label for="028">![028](../Slides/for_everyone.028.jpeg)</label>
 _028. Your account has a debt and is past due._
 
 Let's start with this one, which was sent to a member of our SRE team.
@@ -60,7 +60,7 @@ What do we think?
 
 ### Phish!
 
-<input type="checkbox" id="029" /><label for="029">![029](../slides/for_everyone/for_everyone.029.jpeg)</label>
+<input type="checkbox" id="029" /><label for="029">![029](../Slides/for_everyone.029.jpeg)</label>
 _029. Phish!._
 
 Yes, of course this is a phishing attempt. Quite an easy one to spot thanks to the fact the attacker left in their templating code rather than putting in the cents value. But there were some other indicators here too,
@@ -74,7 +74,7 @@ But of course, the primary red flag is the templating code.
 
 ### DocuSign?
 
-<input type="checkbox" id="030" /><label for="030">![030](../slides/for_everyone/for_everyone.030.jpeg)</label>
+<input type="checkbox" id="030" /><label for="030">![030](../Slides/for_everyone.030.jpeg)</label>
 _030. DocuSign?_
 
 Ok, let's try another one. What do we think about this email from DocuSign?
@@ -85,7 +85,7 @@ Looks like a genuine DocuSign email, has the usual style, same big "Review Docum
 
 ### DocuSgn
 
-<input type="checkbox" id="031" /><label for="031">![031](../slides/for_everyone/for_everyone.031.jpeg)</label>
+<input type="checkbox" id="031" /><label for="031">![031](../Slides/for_everyone.031.jpeg)</label>
 _031. DocuSgn._
 
 This is another phishing email. If you look closely at the domain name in the email, you'll see that it's not the real `docusign.com` domain, but rather `docusgn.com` (Note the missing `i`). An attacker specifically registered a domain similar to the real one, and sent emails that for all intents and purposes look like the real thing, in order to try and steal your DocuSign credentials. Attacks like these are becoming more and more common.
@@ -103,7 +103,7 @@ If you do accidentally click a link in a phishing email, please let us know imme
 
 ### Spear Phishing
 
-<input type="checkbox" id="037" /><label for="037">![037](../slides/for_everyone/for_everyone.037.jpeg)</label>
+<input type="checkbox" id="037" /><label for="037">![037](../Slides/for_everyone.037.jpeg)</label>
 _037. Spear phishing._
 
 These much more targeted attacks are called "[Spear Phishing](https://en.wikipedia.org/wiki/Phishing#Spear_phishing)". An attacker spent a lot of time learning about our internal org structure and crafting a legitimate looking email in order to try and get lots of money from us. These are the types of attacks we care the most about protecting against.
